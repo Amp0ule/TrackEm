@@ -1,4 +1,4 @@
 # TrackEm
 
 1. Bot Telegram
-2. Connec to the wifi
+2. Connect to the wifi
