@@ -224,7 +224,7 @@ def CheckAndAnswer(Msg, BotObj, ChatID):
 
 update_id = None
 
-BotToken = "1465290614:AAHoRrpYRmkff6aWaUNzPvpDf0611oHYmF4"
+BotToken = ""
 
 bot = telegram.Bot(BotToken)
 print("TrackEm started!")
