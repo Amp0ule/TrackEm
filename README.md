@@ -5,5 +5,14 @@
   
 # Installation : 
 
-1. git clone 
-2. Connect to the wifi
+1. Connect the Raspberry Pi on a private wifi (your own).
+
+@Kali-2020.1 : 
+2. $ git clone https://github.com/Amp0ule/TrackEm.git
+3. $ Trackem > open Trackem.py
+
+@Telegram : 
+4. BotFather > New Bot > Create Bot 
+5. add token to TrackEm.py
+
+
