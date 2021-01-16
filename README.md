@@ -14,5 +14,7 @@
 - @Telegram : 
 4. BotFather > New Bot > Create Bot 
 5. add token to TrackEm.py
+6. $ sudo -s python TrackEm.py
+7. Start the bot : /start
 
 
