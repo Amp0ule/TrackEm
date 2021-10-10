@@ -1,2 +1,0 @@
-192.168.43.1	9e:68:25:75:54:7f	(Unknown: locally administered)
-192.168.43.238	8c:85:90:bf:0b:83	Apple, Inc.
